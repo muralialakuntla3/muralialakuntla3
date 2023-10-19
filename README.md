@@ -12,7 +12,7 @@
 
 ## 🔭 I’m currently working on **lms**
 
-## 👯 I’m looking to collaborate on **konamars**
+## 👯 I’m looking to collaborate with **Ravi, Mubeen & Yellaiah**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
