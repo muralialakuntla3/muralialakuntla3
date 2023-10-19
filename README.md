@@ -1,6 +1,6 @@
 ![image](https://github.com/muralialakuntla3/muralialakuntla3/assets/118282852/fadd6823-c67f-4cec-98ac-832ff511ab58)
 
-### Hi there 👋
+# Hi 👋 I am MURALI KRISHNA ALAKUNTLA
 
 <!--
 **muralialakuntla3/muralialakuntla3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
