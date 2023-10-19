@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muralialakuntla3" alt="muralialakuntla3" /></a> </p>
 
-## 🔭 I’m currently working on **lms**
+### 🔭 I’m currently working on ## **LMS 2.0**
 
-## 👯 I’m looking to collaborate with **Ravi, Mubeen & Yellaiah**
+### 👯 I’m looking to collaborate with ## **Ravi, Mubeen & Yellaiah**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
