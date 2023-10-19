@@ -1,4 +1,5 @@
-https://github.com/muralialakuntla3/muralialakuntla3/blob/main/PROFILE-PIC.png
+![image](https://github.com/muralialakuntla3/muralialakuntla3/assets/118282852/69534d4b-3fd0-4d4d-8e6c-56be0f8dc479)
+
 
 # Hi 👋 I am MURALI KRISHNA ALAKUNTLA
 
