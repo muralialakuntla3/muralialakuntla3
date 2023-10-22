@@ -3,7 +3,7 @@
 
 # Hi 👋 I am MURALI KRISHNA ALAKUNTLA
 
-<h3 align="center">A passionate DevOps Engineer from India https://github.com/muralialakuntla3/muralialakuntla3/blob/main/flag.webp - Hyderabad</h3>
+<h3 align="center">A passionate DevOps Engineer from India ![image](https://github.com/muralialakuntla3/muralialakuntla3/assets/118282852/69534d4b-3fd0-4d4d-8e6c-56be0f8dc479)- Hyderabad</h3>
 <img aligh="right" alt="DevOps Engineer" width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muralialakuntla3&label=Profile%20views&color=0e75b6&style=flat" alt="muralialakuntla3" /> </p>
