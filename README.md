@@ -3,7 +3,7 @@
 
 # Hi 👋 I am MURALI KRISHNA ALAKUNTLA
 
-<h3 align="center">A passionate DevOps Engineer from India </h3> <img src="flag.png" alt="">
+<h3 align="center">A passionate DevOps Engineer from India </h3> <img src="./flag.png" alt="">
 
 <img aligh="right" alt="DevOps Engineer" width="400" src="https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif">
 
