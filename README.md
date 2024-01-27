@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/muralialakuntla3/muralialakuntla3/blob/main/PRO-PIC.png)
 
 
 # Hi 👋 I am MURALI KRISHNA ALAKUNTLA
