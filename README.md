@@ -1,4 +1,6 @@
 ![image](https://github.com/muralialakuntla3/muralialakuntla3/blob/main/PRO-PIC.png)
+<img width="1536" height="1024" alt="ChatGPT Image Aug 12, 2025, 09_58_51 AM" src="https://github.com/user-attachments/assets/f13668db-f08d-4425-8f4d-1e1d24334ed3" />
+
 
 
 # Hi 👋 I am MURALI KRISHNA ALAKUNTLA
